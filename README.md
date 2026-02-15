@@ -74,7 +74,7 @@ The Power BI dashboard includes:
 - KPI metrics for churn analysis  
 - Interactive filters for stakeholder exploration
 
-  > ![Power BI Dashboard](dashboard.png)
+  > ![Power BI Dashboard](dasshboard_churn.png)
 
 ---
 
@@ -91,7 +91,7 @@ The Power BI dashboard includes:
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/anushka-2004/customer_churn_analysis.git
+git clone https://github.com/anushka-2004/Churn_analysis.git
 
 ### 2️⃣ Import Dataset into MySQL
 
